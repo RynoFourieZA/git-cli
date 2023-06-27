@@ -3,4 +3,4 @@ line 2 added
 line 3 added
 line 4 added
 
-testing a new linea added
+testing a new line added
